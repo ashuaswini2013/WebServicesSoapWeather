@@ -1,0 +1,4 @@
+Attempting to download 'https://graphical.weather.gov/xml/SOAP_server/ndfdXMLserver.php?wsdl' using DiscoveryClientProtocol..
+DiscoveryClientProtocol found documents at the following URLs:
+- WSDL document at  
+https://graphical.weather.gov/xml/SOAP_server/ndfdXMLserver.php?wsdl

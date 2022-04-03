@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<services>
+  <service>
+    <name>ndfdXML</name>
+    <id>0</id>
+    <ports>
+      <port>
+        <name>ndfdXMLPort</name>
+        <id>1</id>
+        <bindingname>ndfdXMLBinding</bindingname>
+        <porttype>ndfdXMLPortType</porttype>
+      </port>
+    </ports>
+  </service>
+</services>
